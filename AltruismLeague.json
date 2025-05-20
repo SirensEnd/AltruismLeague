@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeague",
-	"Version": 1747751395,
+	"Version": 1747751542,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3264,17 +3264,29 @@
 				594
 			],
 			"ItemWhitelist": [
-				14
+				14,
+				0,
+				7,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": [
