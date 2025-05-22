@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeague",
-	"Version": 1747751542,
+	"Version": 1747918959,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -910,6 +910,7 @@
 				"155",
 				"266",
 				"163",
+				"276",
 				"165",
 				"244",
 				"168",
@@ -1929,7 +1930,10 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58",
+				"63"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2877,7 +2881,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3125,16 +3131,29 @@
 				555,
 				548
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				6,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3264,7 +3283,6 @@
 				594
 			],
 			"ItemWhitelist": [
-				14,
 				0,
 				7,
 				6
@@ -3289,11 +3307,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
