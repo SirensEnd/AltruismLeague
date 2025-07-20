@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1753047629,
+	"Version": 1753047938,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3619,10 +3619,10 @@
 				"19"
 			],
 			"BalanceTiers": [
-				5
+				4
 			],
 			"SurvivorBalanceTiers": [
-				5
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3856,10 +3856,10 @@
 				"33"
 			],
 			"BalanceTiers": [
-				2
+				4
 			],
 			"SurvivorBalanceTiers": [
-				2
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
