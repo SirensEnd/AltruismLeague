@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1752529660,
+	"Version": 1753047629,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3639,7 +3639,8 @@
 				655,
 				654,
 				658,
-				657
+				657,
+				653
 			],
 			"ItemWhitelist": [
 				0,
