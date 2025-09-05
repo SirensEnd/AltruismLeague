@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1757075034,
+	"Version": 1757075187,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3106,10 +3106,10 @@
 				"39"
 			],
 			"BalanceTiers": [
-				4
+				5
 			],
 			"SurvivorBalanceTiers": [
-				4
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3128,8 +3128,8 @@
 			"ItemWhitelist": [
 				0,
 				6,
-				7,
-				14
+				14,
+				9
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
