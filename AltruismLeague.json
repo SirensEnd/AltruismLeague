@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1757075187,
+	"Version": 1757746352,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -23,6 +23,7 @@
 				"60",
 				"288",
 				"33",
+				"36",
 				"38",
 				"40",
 				"280",
@@ -57,7 +58,9 @@
 				"116",
 				"290",
 				"120",
+				"121",
 				"124",
+				"254",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -151,6 +154,10 @@
 				[
 					"210",
 					"220"
+				],
+				[
+					"215",
+					"213"
 				]
 			]
 		},
@@ -316,7 +323,12 @@
 					"121"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"159",
+					"226"
+				]
+			]
 		},
 		{
 			"Name": "D Tier",
@@ -478,7 +490,16 @@
 					"121"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"171",
+					"183"
+				],
+				[
+					"159",
+					"226"
+				]
+			]
 		},
 		{
 			"Name": "C Tier",
@@ -614,6 +635,7 @@
 				"256",
 				"195",
 				"196",
+				"203",
 				"151",
 				"271",
 				"204",
@@ -650,7 +672,12 @@
 					"121"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"171",
+					"183"
+				]
+			]
 		},
 		{
 			"Name": "B Tier",
@@ -819,7 +846,12 @@
 					"121"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"215",
+					"213"
+				]
+			]
 		},
 		{
 			"Name": "A Tier",
@@ -843,6 +875,7 @@
 				"273",
 				"288",
 				"33",
+				"34",
 				"248",
 				"36",
 				"38",
@@ -975,6 +1008,10 @@
 				[
 					"210",
 					"220"
+				],
+				[
+					"215",
+					"213"
 				]
 			]
 		},
@@ -1119,6 +1156,10 @@
 				[
 					"210",
 					"160"
+				],
+				[
+					"215",
+					"213"
 				]
 			]
 		}
@@ -2605,11 +2646,11 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
 				"3",
-				"12",
-				"29",
-				"54",
-				"39"
+				"7",
+				"8",
+				"12"
 			],
 			"BalanceTiers": [
 				5
@@ -4129,11 +4170,11 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"6",
+				"14",
 				"49",
 				"37",
-				"38",
-				"47",
-				"40"
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -4211,11 +4252,11 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
 				"18",
 				"19",
-				"37",
-				"55",
-				"41"
+				"33",
+				"55"
 			],
 			"BalanceTiers": [
 				4
@@ -4278,7 +4319,11 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
 			"KillerOfferings": [
 				5
 			]
