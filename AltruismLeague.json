@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1760382845,
+	"Version": 1760383600,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2577,10 +2577,10 @@
 				"55"
 			],
 			"BalanceTiers": [
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3534,10 +3534,10 @@
 				"36"
 			],
 			"BalanceTiers": [
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3695,10 +3695,10 @@
 				"56"
 			],
 			"BalanceTiers": [
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3721,8 +3721,7 @@
 			"ItemWhitelist": [
 				0,
 				6,
-				14,
-				9
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3744,11 +3743,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
