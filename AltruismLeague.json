@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1760384311,
+	"Version": 1760748681,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2940,6 +2940,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"8",
 				"12",
 				"17",
 				"33",
@@ -4034,7 +4035,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"8",
+				"9",
 				"12",
 				"13",
 				"54"
@@ -4058,7 +4059,9 @@
 			"IndividualAddonBans": [
 				735,
 				736,
-				738
+				738,
+				733,
+				730
 			],
 			"ItemWhitelist": [
 				0,
