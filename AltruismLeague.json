@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1760748681,
+	"Version": 1760842644,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1371,7 +1371,9 @@
 				6
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"172"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1456,7 +1458,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"132"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
