@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1761679700,
+	"Version": 1764440838,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -10,6 +10,7 @@
 				"0",
 				"3",
 				"52",
+				"7",
 				"258",
 				"11",
 				"13",
@@ -49,6 +50,7 @@
 				"84",
 				"86",
 				"90",
+				"96",
 				"296",
 				"98",
 				"100",
@@ -63,6 +65,7 @@
 				"120",
 				"121",
 				"124",
+				"128",
 				"254",
 				"130"
 			],
@@ -155,6 +158,10 @@
 				[
 					"12",
 					"69"
+				],
+				[
+					"101",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -874,6 +881,10 @@
 				[
 					"254",
 					"121"
+				],
+				[
+					"101",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -937,6 +948,7 @@
 				"86",
 				"88",
 				"90",
+				"96",
 				"296",
 				"98",
 				"100",
@@ -1039,6 +1051,10 @@
 				[
 					"80",
 					"36"
+				],
+				[
+					"101",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1091,6 +1107,7 @@
 				"84",
 				"86",
 				"90",
+				"96",
 				"296",
 				"98",
 				"100",
@@ -1104,6 +1121,7 @@
 				"290",
 				"120",
 				"124",
+				"128",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -1193,6 +1211,10 @@
 				[
 					"69",
 					"110"
+				],
+				[
+					"101",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -2545,10 +2567,10 @@
 				"54"
 			],
 			"BalanceTiers": [
-				4
+				5
 			],
 			"SurvivorBalanceTiers": [
-				4
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2567,8 +2589,8 @@
 			"ItemWhitelist": [
 				6,
 				0,
-				7,
-				14
+				14,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -4297,10 +4319,10 @@
 				"55"
 			],
 			"BalanceTiers": [
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
