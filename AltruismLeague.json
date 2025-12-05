@@ -1,6 +1,6 @@
 {
 	"Name": "AltruismLeagueS1",
-	"Version": 1764444765,
+	"Version": 1764944665,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -699,6 +699,10 @@
 				[
 					"254",
 					"121"
+				],
+				[
+					"101",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": [
