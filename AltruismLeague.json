@@ -1,6 +1,6 @@
 {
 	"Name": "ALTL",
-	"Version": 1773613996,
+	"Version": 1773681052,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -246,7 +246,9 @@
 				"177",
 				"178",
 				"180",
+				"181",
 				"183",
+				"184",
 				"264",
 				"185",
 				"186",
@@ -260,6 +262,7 @@
 				"211",
 				"216",
 				"218",
+				"220",
 				"298",
 				"223",
 				"225",
@@ -272,7 +275,20 @@
 				"242"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				],
+				[
+					"210",
+					"220"
+				],
+				[
+					"220",
+					"217"
+				]
+			]
 		},
 		{
 			"Name": "2",
@@ -414,7 +430,20 @@
 					"50"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"220",
+					"217"
+				],
+				[
+					"220",
+					"160"
+				],
+				[
+					"181",
+					"184"
+				]
+			]
 		},
 		{
 			"Name": "3",
@@ -980,7 +1009,9 @@
 			"IndividualAddonBans": [
 				39
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1023,7 +1054,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1035,19 +1068,37 @@
 			"IndividualAddonBans": [
 				54
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1079,7 +1130,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"181",
+					"184"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1099,19 +1155,37 @@
 				75,
 				76
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				6,
+				9,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1157,7 +1231,10 @@
 				98,
 				96
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				7,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1166,7 +1243,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1253,7 +1334,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1264,7 +1347,10 @@
 				138,
 				139
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1273,7 +1359,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1320,16 +1410,29 @@
 				155,
 				158
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1350,15 +1453,17 @@
 		{
 			"Name": "The Cannibal",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"22",
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1370,8 +1475,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				174,
+				177
+			],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1395,8 +1505,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nightmare",
@@ -1426,16 +1543,29 @@
 			"IndividualAddonBans": [
 				196
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1485,7 +1615,9 @@
 				217,
 				218
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1546,16 +1678,29 @@
 				237,
 				238
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1591,7 +1736,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1606,19 +1753,37 @@
 				257,
 				258
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				8,
+				14,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1702,7 +1867,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"53"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1716,19 +1883,32 @@
 				297,
 				298
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1771,7 +1951,9 @@
 			"IndividualAddonBans": [
 				318
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1826,16 +2008,29 @@
 			"IndividualAddonBans": [
 				337
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1882,16 +2077,29 @@
 				357,
 				358
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1938,16 +2146,29 @@
 				377,
 				378
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2033,7 +2254,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"181",
+					"184"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2061,19 +2287,37 @@
 				417,
 				418
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				6,
+				9,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2273,7 +2517,10 @@
 				497,
 				498
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2282,7 +2529,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2329,16 +2580,29 @@
 				515,
 				518
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2387,7 +2651,9 @@
 				537,
 				538
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2448,7 +2714,9 @@
 				557,
 				558
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2504,16 +2772,29 @@
 				577,
 				578
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2665,19 +2946,37 @@
 				638,
 				637
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2772,16 +3071,29 @@
 				668,
 				671
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2830,7 +3142,10 @@
 				697,
 				698
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2839,7 +3154,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2887,7 +3206,10 @@
 				717,
 				718
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2896,7 +3218,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2944,19 +3270,37 @@
 				736,
 				738
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -3038,9 +3382,13 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"160"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"69"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3054,19 +3402,37 @@
 				776,
 				778
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				5,
+				0,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -3111,7 +3477,10 @@
 				792,
 				798
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -3120,7 +3489,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3225,19 +3598,37 @@
 				837,
 				838
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
