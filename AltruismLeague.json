@@ -1,6 +1,6 @@
 {
 	"Name": "ALTL",
-	"Version": 1773767492,
+	"Version": 1774287390,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"247",
 				"19",
 				"20",
+				"73",
 				"22",
 				"23",
 				"25",
@@ -31,6 +32,7 @@
 				"288",
 				"33",
 				"40",
+				"108",
 				"43",
 				"303",
 				"268",
@@ -49,7 +51,6 @@
 				"67",
 				"69",
 				"269",
-				"73",
 				"74",
 				"295",
 				"77",
@@ -67,7 +68,6 @@
 				"275",
 				"105",
 				"106",
-				"108",
 				"110",
 				"263",
 				"113",
@@ -123,11 +123,11 @@
 				"204",
 				"205",
 				"284",
-				"209",
 				"211",
 				"216",
 				"218",
 				"298",
+				"209",
 				"223",
 				"225",
 				"226",
@@ -1166,8 +1166,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hillbilly",
@@ -1241,8 +1248,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nurse",
@@ -1328,8 +1342,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Shape",
@@ -1393,8 +1414,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
@@ -1509,8 +1537,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Huntress",
@@ -1578,8 +1613,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cannibal",
@@ -1711,8 +1753,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Pig",
@@ -1772,8 +1821,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Clown",
@@ -1846,8 +1902,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Spirit",
@@ -1926,8 +1989,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Legion",
@@ -1977,8 +2047,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Plague",
@@ -2051,8 +2128,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghost Face",
@@ -2108,8 +2192,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Demogorgon",
@@ -2176,8 +2267,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Oni",
@@ -2245,8 +2343,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Deathslinger",
@@ -2314,8 +2419,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Executioner",
@@ -2460,8 +2572,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Twins",
@@ -2679,8 +2798,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
@@ -2748,8 +2874,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Onryo",
@@ -2808,8 +2941,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dredge",
@@ -2871,8 +3011,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Mastermind",
@@ -2940,8 +3087,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Knight",
@@ -3119,8 +3273,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Xenomorph",
@@ -3239,8 +3400,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Unknown",
@@ -3304,8 +3472,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Lich",
@@ -3368,8 +3543,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dark Lord",
@@ -3443,8 +3625,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Houndmaster",
@@ -3494,8 +3683,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghoul",
@@ -3575,8 +3771,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Animatronic",
@@ -3639,8 +3842,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Krasue",
@@ -3771,8 +3981,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
