@@ -1,6 +1,6 @@
 {
 	"Name": "ALTL",
-	"Version": 1777594073,
+	"Version": 1777928380,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -113,6 +113,7 @@
 				"175",
 				"299",
 				"177",
+				"291",
 				"178",
 				"180",
 				"183",
@@ -263,6 +264,7 @@
 				"175",
 				"299",
 				"177",
+				"291",
 				"178",
 				"180",
 				"181",
@@ -458,6 +460,7 @@
 				"175",
 				"299",
 				"177",
+				"291",
 				"178",
 				"180",
 				"183",
@@ -619,6 +622,7 @@
 				"109",
 				"110",
 				"263",
+				"112",
 				"113",
 				"260",
 				"114",
@@ -673,6 +677,7 @@
 				"175",
 				"299",
 				"177",
+				"291",
 				"178",
 				"180",
 				"183",
@@ -871,6 +876,7 @@
 				"175",
 				"299",
 				"177",
+				"291",
 				"178",
 				"180",
 				"183",
@@ -1198,7 +1204,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				39
+				39,
+				37
 			],
 			"ItemWhitelist": [
 				0
@@ -1438,7 +1445,8 @@
 				99,
 				95,
 				98,
-				96
+				96,
+				94
 			],
 			"ItemWhitelist": [
 				7,
@@ -1704,7 +1712,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				174,
-				177
+				177,
+				172
 			],
 			"ItemWhitelist": [
 				0
@@ -1767,7 +1776,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				196
+				196,
+				197,
+				195,
+				189
 			],
 			"ItemWhitelist": [
 				0,
@@ -2275,7 +2287,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				337
+				337,
+				328
 			],
 			"ItemWhitelist": [
 				0,
@@ -2343,7 +2356,9 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"112"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -2633,15 +2648,17 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"4",
+				"5",
+				"49"
 			],
 			"BalanceTiers": [
-				0
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2653,20 +2670,47 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				437,
+				438,
+				434,
+				435,
+				433,
+				432,
+				429,
+				425
+			],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2678,21 +2722,29 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2704,8 +2756,20 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				456,
+				457,
+				458,
+				453,
+				454,
+				455,
+				450,
+				449
+			],
+			"ItemWhitelist": [
+				0,
+				7
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2714,7 +2778,11 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2729,8 +2797,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nemesis",
@@ -3397,7 +3471,9 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"112"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
