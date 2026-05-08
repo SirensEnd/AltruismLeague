@@ -1,6 +1,6 @@
 {
 	"Name": "ALTL",
-	"Version": 1777928620,
+	"Version": 1778265104,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2922,8 +2922,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				10
+				5
 			],
 			"KillerOfferings": [
 				5
